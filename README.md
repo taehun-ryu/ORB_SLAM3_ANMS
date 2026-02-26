@@ -5,13 +5,6 @@
 ## Project Goal
 Apply SSC-based ANMS to the ORB keypoint selection stage in the ORB-SLAM3 pipeline to improve tracking stability and map point distribution.
 
-## Project Status
-| Item | Status |
-| --- | --- |
-| SSC-based ANMS baseline integration | ✅ Implemented |
-| Code Refactoring | 🔧 In progress |
-| ROS2 Humble driver implementation | 📝 Planned |
-
 ## Quick Start
 For build and run instructions, refer to [original README](README-origin.md).
 
